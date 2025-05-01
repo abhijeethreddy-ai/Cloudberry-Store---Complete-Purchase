@@ -81,13 +81,7 @@ Contains hardcoded login credentials (replace with secured configuration in prod
 Output
 If the order confirmation is displayed, console logs:
 
-nginx
-Copy
-Edit
+
 Test Passed
 Otherwise:
-
-nginx
-Copy
-Edit
 Test Failed
